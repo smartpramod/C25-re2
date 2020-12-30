@@ -1,2 +1,2 @@
-# C25-re2
-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
